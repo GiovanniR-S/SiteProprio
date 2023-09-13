@@ -18,6 +18,21 @@ namespace MeuSite.Controllers
             return View();
         }
 
+        public IActionResult Sobre ()
+        {
+            return View();
+        }
+
+        public IActionResult Trabalhos ()
+        {
+            return View();
+        }
+
+        public IActionResult Contatos ()
+        {
+            return View();
+        }
+
         public IActionResult Privacy ()
         {
             return View();
