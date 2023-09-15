@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\giova\\OneDrive\\Documentos\\Estudo\\Estudo\\MVC\\MeuSite\\MeuSite\\MeuSite\\wwwroot\\img\\welcome_background.jpg",
+      "PackagePath": "staticwebassets\\img\\welcome_background.jpg"
+    },
+    {
       "Id": "C:\\Users\\giova\\OneDrive\\Documentos\\Estudo\\Estudo\\MVC\\MeuSite\\MeuSite\\MeuSite\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

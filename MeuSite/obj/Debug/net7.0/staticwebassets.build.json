@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xS+41MaGJQQ7iyLJPEIBT9rjdi5BY/dLOzRcVXqQDz4=",
+  "Hash": "g0LdHlxExIcC96vu5o8LDu57mCU/FdYCDrg28qxZgLI=",
   "Source": "MeuSite",
   "BasePath": "_content/MeuSite",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\giova\\OneDrive\\Documentos\\Estudo\\Estudo\\MVC\\MeuSite\\MeuSite\\MeuSite\\wwwroot\\img\\welcome_background.jpg",
+      "SourceId": "MeuSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\giova\\OneDrive\\Documentos\\Estudo\\Estudo\\MVC\\MeuSite\\MeuSite\\MeuSite\\wwwroot\\",
+      "BasePath": "_content/MeuSite",
+      "RelativePath": "img/welcome_background.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\welcome_background.jpg"
     },
     {
       "Identity": "C:\\Users\\giova\\OneDrive\\Documentos\\Estudo\\Estudo\\MVC\\MeuSite\\MeuSite\\MeuSite\\wwwroot\\js\\site.js",
