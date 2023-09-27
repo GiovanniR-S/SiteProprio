@@ -1,0 +1,57 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="card border-0">
+    <img class="card-img rounded-0" src="~/img/welcome_background.jpg" />
+
+    <div class="card-img-overlay d-flex align-items-center justify-content-between" style="padding-left: 13%; background-color: rgba(0, 0, 0, 0.65)">
+        
+        <div class="text-white">
+
+            <h1 class="card-title box-shadow shadow" style="margin-bottom: 8%; font-size: 68px; color: rgb(25, 205, 255)">
+                Bem vindo!<br />
+                <span class="box-shadow shadow" style="margin-top: 5%; font-size: 34px; color: rgb(220, 220, 220)">Meu nome é <span style="color:#ffd700">Giovanni Roberts Silva.</span></span>
+            </h1>
+
+            <p class="card-text w-75 box-shadow shadow" style="font-size: 24px; margin-bottom: 8%; color: rgb(220, 220, 220)">
+                Esse é meu mundo profissional. Meu espaço virtual onde você pode explorar minha jornada, meus projetos e meu compromisso com a excelência.
+                Venho desenvolvendo uma ampla gama de habilidades e experiências que gostaria de compartilhar com você!
+            </p>
+
+            
+        </div>
+
+        <div class="box-shadow shadow rounded-3 text-center" style="width: 1850px; height: 850px; margin-right: 15%; padding: 2%; background-color: rgba(125, 205, 255, 0.85)">
+            <div class="border-bottom">
+                <h2>Deseja meu curriculo?</h2>
+            </div>
+
+            <form class="pt-5">
+                <label for="Name" class="form-label mb-2" style="font-size: 20px;">Digite seu Nome: </label>
+                <input type="text" class="form-control rounded-pill shadow-lg" aria-describedby="Name">
+
+                <label for="Name" class="form-label mt-5 mb-2" style="font-size: 20px;">Digite o nome da sua Empresa: </label>
+                <input type="text" class="form-control rounded-pill shadow-lg" aria-describedby="Empresa">
+
+                <label for="exampleInputEmail1" class="form-label mt-5 mb-2" style="font-size: 20px;">Digite seu melhor Email: </label>
+                <input type="email" class="form-control rounded-pill shadow-lg" id="exampleInputEmail1" aria-describedby="emailHelp">
+
+                <label class="form-label mt-5 mb-2" for="phone" style="font-size: 20px;">Digite seu Numero: </label>
+                <input type="text" id="phone" class="form-control rounded-pill shadow-lg" data-mdb-input-mask="+48 999-999-999" />
+                    
+
+                <label class="form-label mt-5 mb-2" style="font-size: 20px;">Qual curriculo deseja?</label>
+                <select class="form-select rounded-pill shadow-lg" aria-label="Default select example">
+                    <option selected>Selecione o curriculo</option>
+                    <option value="1">Desenvolvedor .Net</option>
+                    <option value="2">Desenvolvedor de Jogos</option>
+                </select>
+
+                <button class="btn btn-primary py-3 w-100 mt-5 rounded-pill shadow-lg">RECEBER!</button>
+            </form>
+
+        </div>
+
+    </div>
+</div>
