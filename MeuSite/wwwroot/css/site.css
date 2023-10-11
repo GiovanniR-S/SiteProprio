@@ -20,3 +20,7 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.inverter-imagem {
+    transform: scaleX(-1);
+}
