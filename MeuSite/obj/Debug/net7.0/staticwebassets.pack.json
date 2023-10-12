@@ -13,6 +13,14 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\giova\\OneDrive\\Documentos\\Estudo\\Estudo\\MVC\\MeuSite\\MeuSite\\MeuSite\\wwwroot\\img\\GameDeveloper.png",
+      "PackagePath": "staticwebassets\\img\\GameDeveloper.png"
+    },
+    {
+      "Id": "C:\\Users\\giova\\OneDrive\\Documentos\\Estudo\\Estudo\\MVC\\MeuSite\\MeuSite\\MeuSite\\wwwroot\\img\\backgroundGithub1.png",
+      "PackagePath": "staticwebassets\\img\\backgroundGithub1.png"
+    },
+    {
       "Id": "C:\\Users\\giova\\OneDrive\\Documentos\\Estudo\\Estudo\\MVC\\MeuSite\\MeuSite\\MeuSite\\wwwroot\\img\\welcome_background.jpg",
       "PackagePath": "staticwebassets\\img\\welcome_background.jpg"
     },

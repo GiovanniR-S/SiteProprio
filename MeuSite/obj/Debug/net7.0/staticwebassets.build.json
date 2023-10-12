@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "g0LdHlxExIcC96vu5o8LDu57mCU/FdYCDrg28qxZgLI=",
+  "Hash": "WWZhYfep66fSXr/bcpZWT61z24+neoZBrvLc0Z48BA0=",
   "Source": "MeuSite",
   "BasePath": "_content/MeuSite",
   "Mode": "Default",
@@ -83,6 +83,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\giova\\OneDrive\\Documentos\\Estudo\\Estudo\\MVC\\MeuSite\\MeuSite\\MeuSite\\wwwroot\\img\\backgroundGithub1.png",
+      "SourceId": "MeuSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\giova\\OneDrive\\Documentos\\Estudo\\Estudo\\MVC\\MeuSite\\MeuSite\\MeuSite\\wwwroot\\",
+      "BasePath": "_content/MeuSite",
+      "RelativePath": "img/backgroundGithub1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\backgroundGithub1.png"
+    },
+    {
+      "Identity": "C:\\Users\\giova\\OneDrive\\Documentos\\Estudo\\Estudo\\MVC\\MeuSite\\MeuSite\\MeuSite\\wwwroot\\img\\GameDeveloper.png",
+      "SourceId": "MeuSite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\giova\\OneDrive\\Documentos\\Estudo\\Estudo\\MVC\\MeuSite\\MeuSite\\MeuSite\\wwwroot\\",
+      "BasePath": "_content/MeuSite",
+      "RelativePath": "img/GameDeveloper.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\GameDeveloper.png"
     },
     {
       "Identity": "C:\\Users\\giova\\OneDrive\\Documentos\\Estudo\\Estudo\\MVC\\MeuSite\\MeuSite\\MeuSite\\wwwroot\\img\\welcome_background.jpg",
